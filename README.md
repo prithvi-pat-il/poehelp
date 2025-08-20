@@ -54,7 +54,7 @@ A modern, responsive web application designed to help students with practical ex
 4. **Access the website**
    - Student site: http://localhost:5000
    - Admin panel: http://localhost:5000/admin
-   - Default admin credentials: `admin` / `admin123`
+   
 
 ### Online Deployment
 
@@ -166,8 +166,6 @@ FLASK_ENV=production
 ```
 
 ### Default Configuration
-- **Admin Username**: `admin`
-- **Admin Password**: `admin123` (change immediately!)
 - **Database**: SQLite (in instance/database.db)
 - **Debug Mode**: Disabled in production
 
